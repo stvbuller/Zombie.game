@@ -1,0 +1,19 @@
+{
+  "name": "zombie-game",
+  "version": "1.0.0",
+  "description": "\" a command line zombie game\"",
+  "main": "zombie.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stvbuller/Zombie.game.git"
+  },
+  "author": "\"steven Buller, Mark Awai\"",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stvbuller/Zombie.game/issues"
+  },
+  "homepage": "https://github.com/stvbuller/Zombie.game#readme"
+}
